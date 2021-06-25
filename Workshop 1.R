@@ -315,6 +315,7 @@ x <- seq(-pi,pi,0.1)
 y<- seq(-10, 10, 1)
 x
 y
+#Change comments
 plot(x, sin(x),
      main="The Sine Function",
      xlab='Value of x',
